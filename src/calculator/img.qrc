@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img_2/5677.png</file>
+        <file>img_2/text.png</file>
+        <file>img_2/PLOT_1.png</file>
+        <file>img_2/lim_x.png</file>
+        <file>img_2/lim_y.png</file>
+        <file>img_2/step.png</file>
+        <file>sounds/1234.mp3</file>
+        <file>img_2/credit).png</file>
+        <file>img_2/rate.png</file>
+        <file>img_2/res.png</file>
+        <file>img_2/term.png</file>
+        <file>img_2/type.png</file>
+        <file>img_2/month.png</file>
+        <file>img_2/over.png</file>
+        <file>img_2/cred_am.png</file>
+        <file>img_2/total.png</file>
+        <file>img_2/3p.jpg</file>
+    </qresource>
+</RCC>
